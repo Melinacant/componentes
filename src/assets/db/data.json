@@ -1,0 +1,15 @@
+{
+    "data": [{
+        "id": "1",
+        "name": "One",
+        "image": "https://react.semantic-ui.com/images/avatar/large/matthew.png"
+    }, {
+        "id": "2",
+        "name": "Two",
+        "image": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg"
+    }, {
+        "id": "3",
+        "name": "Three",
+        "image": "https://react.semantic-ui.com/images/avatar/large/daniel.jpg"
+    }]
+}

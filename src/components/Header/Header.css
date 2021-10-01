@@ -1,0 +1,18 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+    min-height: 30vh;
+    background-color: rgb(219, 217, 217);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.Header h1 {
+    color: rgb(160, 159, 159);
+    margin-bottom: 2rem;
+    font-size:medium;
+}
+
+
+

@@ -7,7 +7,7 @@
     padding: 20px;
     position: fixed;
     background-color: grey;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.753);
+    border-bottom: 1px solid rgb(83, 82, 82) ;
     z-index: 999;
 }
 

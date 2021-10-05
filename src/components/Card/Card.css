@@ -27,9 +27,12 @@
 }
 
 .card-span {
-    color: #ffffff;
     font-weight: bold;
     letter-spacing: 2px;
     font-size: 20px;
 }
 
+.card-button {
+    display: flex;
+    justify-content: flex-end;
+}
